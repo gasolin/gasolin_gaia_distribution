@@ -1,12 +1,18 @@
 {"homescreens": [
   [
-    ["apps", "gallery"],
-    ["apps", "video"],
+    ["apps", "browser"],
     ["apps", "music"],
-    ["external-apps", "marketplace.firefox.com"],
-    ["apps", "browser"]
+    ["apps", "video"],
+    ["apps", "gallery"],
+    ["external-apps", "marketplace.firefox.com"]
   ], [
-    ["apps", "settings"]
+    ["external-apps", "m.here.com"],
+    ["external-apps", "youtube"],
+    ["external-apps", "facebook"],
+    ["external-apps", "twitter"],
+    ["apps", "settings"],
+    ["external-apps", "mozilla"],
+    ["external-apps", "myfirefox"]
   ]
 ],
   "search_page": {
